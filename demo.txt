@@ -18,3 +18,40 @@ Git branching provides several benefits for developers and teams:
 Experimentation: Branching allows developers to experiment with new features or ideas without affecting the main codebase. This reduces the risk of breaking the code and allows developers to try out new ideas in a safe environment.
 Isolation: Each branch is isolated from the others, which means that changes made on one branch do not affect the code on other branches. This allows multiple developers to work on the same project simultaneously without interfering with each other's work.
 Parallel Devel
+
+
+7. In size, Earth is slightly larger than Venus.7. In size, Earth is slightly larger than Venus.
+
+
+8. Earth formed some 4.54 billion years ago. Once you've merged changes from a branch into another branch, you may no longer need the source branch. You can delete a branch using the git branch -d command followed by the name of the branch:
+Once you've merged changes from a branch into another branch, you may no longer need the source branch. You can delete a branch using the git branch -d command followed by the name of the branch:
+
+
+
+
+7. In size, Earth is slightly larger than Venus.7. In size, Earth is slightly larger than Venus.
+
+
+8. Earth formed some 4.54 billion years ago. Once you've merged changes from a branch into another branch, you may no longer need the source branch. You can delete a branch using the git branch -d command followed by the name of the branch:
+Once you've merged changes from a branch into another branch, you may no longer need the source branch. You can delete a branch using the git branch -d command followed by the name of the branch:
+
+
+
+
+7. In size, Earth is slightly larger than Venus.7. In size, Earth is slightly larger than Venus.
+
+
+8. Earth formed some 4.54 billion years ago. Once you've merged changes from a branch into another branch, you may no longer need the source branch. You can delete a branch using the git branch -d command followed by the name of the branch:
+Once you've merged changes from a branch into another branch, you may no longer need the source branch. You can delete a branch using the git branch -d command followed by the name of the branch:
+
+
+
+
+7. In size, Earth is slightly larger than Venus.7. In size, Earth is slightly larger than Venus.
+
+
+8. Earth formed some 4.54 billion years ago. Once you've merged changes from a branch into another branch, you may no longer need the source branch. You can delete a branch using the git branch -d command followed by the name of the branch:
+Once you've merged changes from a branch into another branch, you may no longer need the source branch. You can delete a branch using the git branch -d command followed by the name of the branch:
+
+
+
