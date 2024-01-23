@@ -5,6 +5,11 @@ adsgfadsg
 adsgafdsgdf
 
 
+7. In size, Earth is slightly larger than Venus.7. In size, Earth is slightly larger than Venus.
+
+
+8. Earth formed some 4.54 billion years ago. Once you've merged changes from a branch into another branch, you may no longer need the source branch. You can delete a branch using the git branch -d command followed by the name of the branch:
+Once you've merged changes from a branch into another branch, you may no longer need the source branch. You can delete a branch using the git branch -d command followed by the name of the branch:
 
 
 
